@@ -1,6 +1,4 @@
-#!/usr/bin/env zsh -r -x -v -e
-
-# What's the one that forces variables to be defined?
+#!/usr/bin/env zsh -r -x -v -e -u
 
 # Create .dotfiles symlink? (should this be elsewhere?)
 
